@@ -18,7 +18,9 @@ function showPrompt() {
         window.location.href = "https://github.com/SmallMushroom-offical/MineOptimiz-Next";
     } else if (githubrepo == "3") {
         window.location.href = "https://github.com/MineOptimiz-Team/MineOptimiz-3rd"
+    } else if (githubrepo == null) {
+        return;
     } else {
-        alert("请输入正确的数字！")
+        alert("请输入正确的数字！");
     }
 }
