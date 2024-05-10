@@ -1,0 +1,18 @@
+{
+    "schemaVersion": 1,
+    "hotfixesFormat": null,
+    "version": [
+        {
+            "id": "1.20.1(Forge)-0.1.8",
+            "releaseAt": 0
+        },
+        {
+            "id": "1.20.1(Forge)-0.1.8-Update.1",
+            "releaseAt": 1
+        },
+        {
+            "id": "1.20.1(Forge)-0.1.7",
+            "releaseAt": 2
+        }
+    ]
+}
