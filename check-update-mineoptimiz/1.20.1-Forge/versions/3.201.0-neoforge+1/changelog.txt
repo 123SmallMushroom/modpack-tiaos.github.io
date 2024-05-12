@@ -1,0 +1,3 @@
+This is the first release of MineOptimiz V3
+
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/commits/3.201.0+1
