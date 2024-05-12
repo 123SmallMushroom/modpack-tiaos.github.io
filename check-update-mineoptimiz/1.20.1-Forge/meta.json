@@ -1,26 +1,14 @@
 {
-    "schemaVersion": 1,
-    "hotfixesFormat": null,
-    "version": [
-      {
-        "id": "1.20.1(Forge)-0.1.8",
-        "releasedAt": 0
-      },
-      {
-        "id": "1.20.1(Forge)-0.1.8-Update.1",
-        "releasedAt": 1
-      },
-      {
-        "id": "3.201.0-neoforge+1",
-        "releasedAt": 2
-      },
-      {
-        "id": "3.201.0-neoforge+2",
-        "releasedAt": 3
-      },
-      {
-        "id": "3.201.0-neoforge+3",
-        "releasedAt": 4
-      }
-    ]
-  }
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "3.201.0-neoforge+1",
+      "releasedAt": 0
+    },
+    {
+      "id": "3.201.0-neoforge+2",
+      "releasedAt": 1
+    }
+  ]
+}
