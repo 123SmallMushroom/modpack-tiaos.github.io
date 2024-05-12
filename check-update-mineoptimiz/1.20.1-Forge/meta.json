@@ -4,19 +4,23 @@
     "version": [
       {
         "id": "1.20.1(Forge)-0.1.8",
-        "releaseAt": 0
+        "releasedAt": 0
       },
       {
         "id": "1.20.1(Forge)-0.1.8-Update.1",
-        "releaseAt": 1
+        "releasedAt": 1
       },
       {
         "id": "3.201.0-neoforge+1",
-        "releaseAt": 2
+        "releasedAt": 2
       },
       {
         "id": "3.201.0-neoforge+2",
-        "releaseAt": 3
+        "releasedAt": 3
+      },
+      {
+        "id": "3.201.0-neoforge+3",
+        "releasedAt": 4
       }
     ]
   }
