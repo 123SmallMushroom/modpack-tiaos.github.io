@@ -12,7 +12,11 @@
         },
         {
             "id": "3.201.0-neoforge+1",
-            "releaseAt": "2"
+            "releaseAt": 2
+        },
+        {
+            "id": "3.201.0-neoforge+2",
+            "releaseAt": 3
         }
     ]
 }
