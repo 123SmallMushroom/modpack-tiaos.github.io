@@ -1,0 +1,8 @@
+更新总览：
+- 修复了一些因配置错误所导致的bug
+- 修复了关于[MineOptimiz Updater](https://github.com/MineOptimiz-Team/MineOptimiz-Updater)的一些bug
+- 升级了大部分模组
+- 将一些forge第三方移植版模组替换为fabric原版
+- 将lucent替换为ryoamiclights
+- 添加了：resourcify, fix-keyboard-on-linux, nochatreports
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.201.0-neoforge+2...3.201.1-neoforge+1
