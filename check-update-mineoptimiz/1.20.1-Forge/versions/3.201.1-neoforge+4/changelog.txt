@@ -1,0 +1,1 @@
+修复了因NoChatReports引起的偶然性崩溃
