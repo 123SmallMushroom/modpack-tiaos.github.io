@@ -1,0 +1,4 @@
+更新总览：
+- 修复了背包界面偶尔错乱的问题
+- 修复了GUI中的许多遗留问题（包括反馈按钮），并移除了Realms按钮
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.201.1-neoforge+4...3.201.1-neoforge+5

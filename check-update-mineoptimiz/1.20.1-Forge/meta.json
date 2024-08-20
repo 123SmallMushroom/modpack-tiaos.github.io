@@ -21,6 +21,14 @@
     {
       "id": "3.201.1-neoforge+3",
       "releasedAt": 4
+    },
+    {
+      "id": "3.201.1-neoforge+4",
+      "releasedAt": 5
+    },
+    {
+      "id": "3.201.1-neoforge+5",
+      "releasedAt": 6
     }
   ]
 }
