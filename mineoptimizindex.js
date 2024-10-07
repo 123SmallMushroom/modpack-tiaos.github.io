@@ -11,5 +11,5 @@ function showConfirm(version) {
     }
 }
 function showPrompt() {
-    window.location.href = "https://github.com/MineOptimiz-Team/MineOptimiz-3rd"
+    window.location.replace("https://github.com/MineOptimiz-Team/MineOptimiz-3rd")
 }
