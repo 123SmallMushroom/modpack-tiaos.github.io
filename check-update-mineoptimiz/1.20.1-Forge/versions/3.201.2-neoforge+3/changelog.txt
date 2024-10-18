@@ -1,0 +1,4 @@
+ - 支持Labymod披风加载
+ - 升级了方块实体优化
+ - 删除了chatimage以修复无法向游戏拖放文件的问题
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.201.2-neoforge+2...3.201.2-n
