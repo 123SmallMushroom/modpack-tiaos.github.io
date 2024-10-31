@@ -1,0 +1,6 @@
+ - 重写设置界面
+ - 添加快捷亮度设置
+ - 将REI替换为JEI
+ - 使用持续更新的LexForge 47.3.x
+ - 更新了部分模组
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.201.2-neoforge+3...3.201.3-forge+1

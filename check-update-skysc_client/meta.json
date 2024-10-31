@@ -17,6 +17,10 @@
       {
         "id": "v3.3",
         "releasedAt": 3
+      },
+      {
+        "id": "v3.4",
+        "releasedAt": 4
       }
     ]
   }
