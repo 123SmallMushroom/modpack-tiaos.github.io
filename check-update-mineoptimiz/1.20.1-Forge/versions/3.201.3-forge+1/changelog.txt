@@ -1,5 +1,6 @@
  - 重写设置界面
  - 添加快捷亮度设置
+ - 添加了Better ModList
  - 将REI替换为JEI
  - 使用持续更新的LexForge 47.3.x
  - 更新了部分模组
