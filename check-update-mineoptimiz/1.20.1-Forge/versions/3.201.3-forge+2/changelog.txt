@@ -1,0 +1,4 @@
+ - 禁用xaeromaps的更新检测
+ - 更新整合包信息
+ - 降级oculus以兼容[DH](https://modrinth.com/mod/distanthorizons)
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.201.3-forge+1...3.201.3-forge+2

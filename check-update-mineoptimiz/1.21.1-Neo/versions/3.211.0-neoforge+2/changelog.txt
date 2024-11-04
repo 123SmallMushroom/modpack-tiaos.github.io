@@ -1,0 +1,5 @@
+ - 更新整合包信息
+ - 禁用烦人的小地图更新检测
+ - 升级i18nupdatemod
+ - 暂时禁用midnightcontrols以修复无法进入服务器
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.211.0-neoforge+1...3.211.0-neoforge+2
