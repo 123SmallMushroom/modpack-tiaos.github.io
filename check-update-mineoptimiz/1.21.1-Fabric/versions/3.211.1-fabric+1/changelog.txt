@@ -1,0 +1,9 @@
+ - 以XPlusContingameIME替换IMBlocker
+ - 添加threategl以强制使用OpenGL4.6
+ - 使用旅行地图替换xaero maps
+ - 使用Continuity实现无缝玻璃，并删除了fusion和Midnighttiggers资源包
+ - 修复了一些翻译问题
+ - 调整了一些键位设置
+ - 添加了viafabricplus, betterfpsdist, fabricskyboxes, fsb-interop
+ - 更新了大部分模组
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.211.0-fabric+2...3.211.1-fabric+1
