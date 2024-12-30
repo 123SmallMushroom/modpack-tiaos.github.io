@@ -1,1 +1,1 @@
-window.location.replace("https://123smallmushroom.github.io/mineoptimizindex.html")
+window.location.replace("https://123smallmushroom.github.io/mineoptimiz")
