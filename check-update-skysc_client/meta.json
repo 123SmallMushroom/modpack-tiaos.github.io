@@ -33,6 +33,10 @@
       {
         "id": "v3.7+e9c5cfe",
         "releasedAt": 7
+      },
+      {
+        "id": "v3.8",
+        "releasedAt": 8
       }
     ]
   }
