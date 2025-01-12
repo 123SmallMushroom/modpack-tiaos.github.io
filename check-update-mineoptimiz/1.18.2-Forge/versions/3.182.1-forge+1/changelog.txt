@@ -1,0 +1,11 @@
+ - 更新Forge
+ - 将xaeros的地图（世界地图和小地图）替换为旅行地图
+ - 将imblocker替换为游戏内输入法
+ - 使用connectedness实现无缝玻璃而不是fusion+资源包
+ - 修改部分致冲突键位，还原丢弃键位
+ - 删除ruok
+ - 强制使用OpenGL4.6（添加threatengl）
+ - 删除部分无用文件
+ - 更新模组
+ - 修复了无法打开部分界面的问题
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.182.0-forge+2...3.182.1-forge+1
